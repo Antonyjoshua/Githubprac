@@ -7,6 +7,7 @@ public class AppiumTest {
 	@Test
 	public void login() {
 		System.out.println("Appium login");
+		System.out.println("Appium login");
 	}
 
 	@Test
