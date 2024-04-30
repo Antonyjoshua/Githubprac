@@ -14,5 +14,9 @@ public class AppiumTest {
 	public void Logout() {
 		System.out.println("Appium Logout");
 	}
+	@Test
+	public void Logout1() {
+		System.out.println("Appium Logout");
+	}
 
 }
