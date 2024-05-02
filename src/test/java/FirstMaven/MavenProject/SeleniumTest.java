@@ -27,5 +27,10 @@ public class SeleniumTest {
 	public void Logout() {
 		System.out.println("Selenium Logout");
 	}
+	@Test
+	public void Logout2() {
+		System.out.println("Selenium Logout");
+	}
+
 
 }
